@@ -57,7 +57,7 @@ print(np.array(class_names)[y_pred])
 y_new = y_test[:5]
 print(np.array(class_names)[y_new])
 
-
+print("ahmed")
 
 
 
